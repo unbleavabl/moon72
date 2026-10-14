@@ -1,5 +1,5 @@
 // Sizes shared by every model. Values proven on the macropad
-// (handwired-kb/macropad/case/scad/common.scad) are copied, not re-guessed.
+// (deck-macropad/macropad/case/scad/common.scad) are copied, not re-guessed.
 // Units mm.
 
 /* [Switch holes] */
