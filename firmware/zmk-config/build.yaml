@@ -1,0 +1,9 @@
+# GitHub Actions build matrix (and the list firmware/build.sh builds locally).
+include:
+  - board: nice_nano//zmk
+    shield: moon72_left
+    snippet: studio-rpc-usb-uart
+  - board: nice_nano//zmk
+    shield: moon72_right
+  - board: nice_nano//zmk
+    shield: settings_reset

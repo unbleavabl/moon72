@@ -1,0 +1,5 @@
+config SHIELD_MOON72_LEFT
+    def_bool $(shields_list_contains,moon72_left)
+
+config SHIELD_MOON72_RIGHT
+    def_bool $(shields_list_contains,moon72_right)

@@ -1,0 +1,12 @@
+file_format: "1"
+id: moon72
+name: Moon72
+type: shield
+url: https://github.com/
+requires: [pro_micro]
+features:
+  - keys
+  - studio
+siblings:
+  - moon72_left
+  - moon72_right
